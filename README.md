@@ -1,7 +1,7 @@
 <div align="center">
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
-  <br> 
+   
 
   <h3>Languages & Frameworks</h3>
   <div>
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
   </div>
-  <br>
 
   <h3>Database</h3>
   <div>
@@ -19,7 +18,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white">
   </div>
-  <br>
 
   <h3>Infrastructure & DevOps</h3>
   <div>
@@ -30,7 +28,6 @@
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
   </div>
-  <br>
 
   <h3>Monitoring & Testing</h3>
   <div>
@@ -38,7 +35,6 @@
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white">
   </div>
-  <br>
   <br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
