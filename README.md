@@ -1,48 +1,52 @@
 <div align="center">
-  
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
-   
 
-  <h3>Languages & Frameworks</h3>
+  <h3> 🛠️ Tech Stacks </h3>  
+
+  <h4>Languages & Frameworks</h4>
   <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   </div>
 
-  <h3>Database</h3>
+  <h4>Database</h4>
   <div>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white">
   </div>
 
-  <h3>Infrastructure & DevOps</h3>
+  <h4>Infrastructure & DevOps</h4>
   <div>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat&logo=Docker&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
   </div>
 
-  <h3>Monitoring & Testing</h3>
+  <h4>Monitoring & Testing</h4>
   <div>
-    <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=flat-square&logo=amazon-cloudwatch&logoColor=white">
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
   </div>
+
   <br>
+  <hr style="border: 0; border-top: 1px solid #d8dee4; width: 80%;">
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=2-Sungyoon&bg_color=60,6c71b7,adf1f5&title_color=000000&text_color=000000&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungyoon&layout=compact&bg_color=60,6c71b7,adf1f5&title_color=000000&text_color=000000" />
-  </div>
+  <h3> 🏅 Stats </h3>
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="padding: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=2-Sungyoon&show_icons=true&theme=transparent&hide_border=true" width="410" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungyoon&layout=compact&theme=transparent&hide_border=true" width="360" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
 </div>
-    
-    
