@@ -34,19 +34,4 @@
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
   </div>
 
-  <br>
-  <hr style="border: 0; border-top: 1px solid #d8dee4; width: 80%;">
 
-  <h3> 🏅 Stats </h3>
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=2-Sungyoon&show_icons=true&theme=transparent&hide_border=true" width="410" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungyoon&layout=compact&theme=transparent&hide_border=true" width="360" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-</div>
