@@ -47,21 +47,6 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2-Sungyoon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungyoon&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2-Sungyoon&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true">
-
-</div>
-
----
-
-<div align="center">
-
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2-Sungyoon&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/2-Sungyoon?v=20260618" width="600" height="300">
   </a>
