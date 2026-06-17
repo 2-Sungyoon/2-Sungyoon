@@ -1,14 +1,3 @@
-<div align="center">
-
-# Sungyoon
-
-<!-- 아래 한 줄 소개를 본인 스타일로 자유롭게 수정하세요 -->
-**Backend Developer** · 배우고 만든 걸 기록합니다
-
-</div>
-
----
-
 ### 🛠️ Tech Stacks
 
 <table>
@@ -59,7 +48,15 @@
 <div align="center">
 
   <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/lines/2-Sungyoon" width="800">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855112424448172248&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855113543412989890&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855115853748866016&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855113541810754718&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855115796467255237&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855113543110986181&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855115854315107698&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855113618847544886&contribution-view=false&width=150&height=150" height="110">
+    <img src="https://render.gitanimals.org/lines/2-Sungyoon?pet-id=855115913404450202&contribution-view=false&width=150&height=150" height="110">
   </a>
 
 </div>
